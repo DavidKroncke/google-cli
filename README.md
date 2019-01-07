@@ -15,3 +15,4 @@ This is a Ruby binary meant to directly search google from the Command Line
 $ google What is the answer to the ultimate question of life, the universe, and everything\?
 
 ```
+**Note** This will not work with out Google Chrome!!!
